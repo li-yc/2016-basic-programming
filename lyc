@@ -1,0 +1,10 @@
+Another representation of the cubic
+Use a 3 dimension int group to represent every blocks of a cubic
+Int cubic [3]     [3]      [3]
+Height  length   width
+
+Use 3 digits to represent a corner block. Use 2 digits to represent an edge block. Use 1 digit to represent a center block.
+
+Advantages:
+Easy to find a certain block(for example, the block with red, green and ) in the cubic. This process is wildly used in the cubic formula
+	
