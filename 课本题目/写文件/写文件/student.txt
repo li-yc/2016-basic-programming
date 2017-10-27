@@ -1,0 +1,1 @@
+If you are editing several files in emacs, each in its own buffer, each buffer has its own point location. A buffer that is not currently displayed remembers where point is in case you display it again later.
